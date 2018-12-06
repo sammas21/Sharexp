@@ -4,14 +4,17 @@
         "directive-selector": [
             true,
             "attribute",
-            "app",
+            "sharexp",
             "camelCase"
         ],
         "component-selector": [
             true,
             "element",
-            "app",
+            "sharexp",
             "kebab-case"
         ]
     }
 }
+
+
+
